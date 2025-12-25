@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tappu06klna@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16QqgFIficBnA50JB8Evnj8AdhyNRFz2o/view?usp=drivesdk](https://drive.google.com/file/d/16QqgFIficBnA50JB8Evnj8AdhyNRFz2o/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16QqgFIficBnA50JB8Evnj8AdhyNRFz2o/view?usp=drivesdk](https://drive.google.com/file/d/1NpQfH91KmBLLqiPjRW4wl75b1roWnYCK/view?usp=drivesdk)
 
 
 <h3 align="left">Languages and Tools:</h3>
