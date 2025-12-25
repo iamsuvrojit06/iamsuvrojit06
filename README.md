@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suvrojit Mukherjee</h1>
 <h3 align="center">I am a Passionate Full Stack Developer From India</h3>
 
-- 🔭 I’m currently working on [Smart Weather App](smartweatherforyou.netlify.app)
+- 🔭 I’m currently working on [Smart Weather App](https://smartweatherforyou.netlify.app)
 
 - 🌱 I’m currently learning **MEARN Stack**
 
