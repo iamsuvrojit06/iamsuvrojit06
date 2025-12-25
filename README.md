@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvrojit Mukherjee</h1>
-<h3 align="center">B.Tech CSE ’28 | CCN Diploma | C++ | Python | DSA | Aspiring MERN Stack Developer</h3>
+<h3 align="center">I am a Passionate Full Stack Developer From India</h3>
 
 - 🔭 I’m currently working on [Smart Weather App](smartweatherforyou.netlify.app)
 
